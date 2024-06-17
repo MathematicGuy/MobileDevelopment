@@ -9,3 +9,5 @@ const Home = () => {
 }
 
 export default Home;
+
+// npm install -g expo-cli
