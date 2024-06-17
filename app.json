@@ -8,6 +8,10 @@
       "expo-router"
     ],
     "name": "Heval",
-    "slug": "Heval"
+    "slug": "Heval",
+    "android": {
+      "package": "com.yourcompany.heval",  // Update this with your actual package name
+      "versionCode": 1
+    }
   }
 }
